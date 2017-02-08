@@ -1,0 +1,31 @@
+{
+  "name": "xclosity",
+  "version": "1.0.0",
+  "description": "A fix to Comcast's Xfinity Gateway's being open to anyone until Comcast themselves react.",
+  "main": "main.js",
+  "bin": {
+    "xclosity": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolvan/XClosity.git"
+  },
+  "keywords": [
+    "Xfinity",
+    "Shodan",
+    "Internet",
+    "Remote",
+    "Management",
+    "Comcast",
+    "Fix"
+  ],
+  "author": "Wolvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wolvan/XClosity/issues"
+  },
+  "homepage": "https://github.com/Wolvan/XClosity#readme"
+}
