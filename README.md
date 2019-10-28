@@ -1,3 +1,5 @@
+# This project is dead
+
 XClosity
 ========
 A fix to Comcast's Xfinity Gateway's being open to anyone until Comcast themselves react.
